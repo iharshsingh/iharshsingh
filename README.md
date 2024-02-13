@@ -24,15 +24,17 @@ Hi 👋! My name is Harsh Singh<br><br>🌱 I’m currently learning Android<br>
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=iharshsingh&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
+<img width="400" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif"/>
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=iharshsingh&limit=5&theme=gruvbox&combine_all_yearly_contributions=true)
-<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" />
+<img height="200" src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" />
 
 ### 😂 Random Dev Meme
-<img  height="100" src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+<img  height="500" src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=iharshsingh&icon=6&color=5)](https://visitcount.itsvg.in)
